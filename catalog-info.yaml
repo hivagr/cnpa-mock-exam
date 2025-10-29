@@ -1,0 +1,20 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: cnpa-mock-exam
+  description: Certified Cloud Native Platform Engineering Associate - Exam
+  annotations:
+    github.com/project-slug: 'hivagr/cnpa-mock-exam'
+    docker.com/repository: 'hiddevg/cnpa-mock-exam'
+  tags:
+    - java
+  links:
+    - url: http://localhost:3000
+      title: Mock - Exam
+      icon: dashboard
+      type: admin-dashboard
+spec:
+  type: website
+  lifecycle: production
+  owner: infra
+  system: education
