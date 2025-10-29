@@ -4,7 +4,7 @@
 ![License](https://img.shields.io/badge/license-MIT-green)
 
 <p align="center" width="100%">
-    <img width="35%" src="./app/public/your-logo-here.jpeg">
+    <img width="35%" src="./app/public/cnpa-logo.png">
 </p>
 
 This repository provides a single-page web app for practicing Certified Cloud Native Platform Engineering Associate (CNPA) exam questions. The app is built with Node.js and serves a quiz interface with multiple-choice questions.
